@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3800&pause=700&width=435&center=true&lines=Bem+Vindos+!;I'm+a+Computer+Science+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3800&pause=700&width=435&center=true&lines=Bem+Vindos+!;alt="Typing SVG" /></a>
 </p>
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CinthiaBello&show_icons=true&theme=tokyonight"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CinthiaBello&layout=compact&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLellis1993&show_icons=true&theme=tokyonight"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLellis1993&layout=compact&theme=tokyonight">
 </div>
 
 <h2 align="left">Eu uso essas tecnologias</h2>
